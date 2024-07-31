@@ -1,5 +1,5 @@
 # Hospitalidade
-<div align="center"> ![capa](https://github.com/grazysmelo/hospitalidade/blob/main/capa.png) </div>
+<div align="center"> <img src="https://github.com/grazysmelo/hospitalidade/blob/main/capa.png"> </div>
 
 ### Contexto 
 - AtliQ Grands possui vários hotéis cinco estrelas na Índia. Eles estão na indústria da hospitalidade há 20 anos. Devido a movimentos estratégicos de outros concorrentes e à tomada de decisões ineficazes na gestão, a AtliQ Grands está perdendo participação de mercado e receita no segmento de hotéis de luxo/negócios. Como uma medida estratégica, o diretor administrativo da AtliQ Grands quer incorporar "Inteligência de Negócios e Dados" para recuperar a participação de mercado e a receita.
