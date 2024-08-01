@@ -8,7 +8,7 @@
 - A AtliQ Grands busca recuperar sua participação de mercado e aumentar a receita no setor de hotéis de luxo na Índia. Para isso, o projeto visa implementar Inteligência de Negócios e Dados para obter insights estratégicos.
 
 > [!NOTE]
-> Utilizando o Excel como banco de dados, foi extraido para o Power BI e iniciado as análises.
+> Os arquivos foram extraídos do banco de dados e estão no repositório no formato csv, após o carregamento para o Power BI, foi iniciado as análises.
 
 ### Power Query
 - Transformação e limpeza de alguns dados
